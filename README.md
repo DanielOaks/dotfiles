@@ -1,0 +1,1 @@
+these are some of the cool important files I use when setting up a new machine.

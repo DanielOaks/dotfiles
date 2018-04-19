@@ -1,0 +1,5 @@
+[user]
+	name = Daniel Oaks
+[alias]
+	lol = log --graph --decorate --pretty=oneline --abbrev-commit --all
+	ignore = "!gi() { curl -L -s https://www.gitignore.io/api/$@ ;}; gi"
